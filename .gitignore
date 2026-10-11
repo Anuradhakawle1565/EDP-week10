@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+.ipynb_checkpoints/
+
+# Downloaded/generated datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Generated models
+models/*.pkl
+models/*.joblib
+models/*.keras
+models/*.h5
+
+# Generated result files
+results/*.csv
+results/*.png
+results/*.jpg
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+# Optional. Install only if your Python version/platform is supported by TensorFlow.
+-r requirements.txt
+tensorflow
